@@ -3,6 +3,8 @@
 
 ![Notharold](https://github.com/notharold/notharold/blob/main/Screenshot%202025-08-08%20112517.png)
 
+Hello! I am currently learning python. and I am a **Learner** at programming
+
 - 👋 Hi, I’m @notharold
 - 👀 I’m interested in coding and website and nuclear power plants.
 - 🌱 I’m currently learning HTML and CSS
